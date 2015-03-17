@@ -1,6 +1,6 @@
 {
   "name": "koa-oauth-server",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "OAuth provider for koa",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/thomseddon/koa-oauth-server"
+    "url": "git://github.com/volinspire/koa-oauth-server"
   },
   "keywords": [
     "koa",
@@ -21,7 +21,7 @@
   },
   "license": "Apache 2.0",
   "dependencies": {
-    "oauth2-server": "^2.3.0",
+    "oauth2-server": "2.3.0",
     "thenify": "^3.0.0"
   },
   "devDependencies": {
